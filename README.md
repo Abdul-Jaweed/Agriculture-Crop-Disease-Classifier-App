@@ -1,1 +1,1 @@
-# Agriculture-Crop-Disease-Classification
+# Agriculture Crop Disease Classifier App
